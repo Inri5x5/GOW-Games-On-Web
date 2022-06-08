@@ -1,3 +1,6 @@
-Please note: If you are looking at this repo before the exam start, you will need to wait until exam start to see the spec link below.
+## Running the Website
 
-Please see the exam spec [here](https://gitlab.cse.unsw.edu.au/COMP6080/22T1/exam-spec).
+### 1.1. The Frontend
+
+Navigate to the directory and run `yarn install` to install all of the dependencies necessary to run the ReactJS app. Then run `yarn start` to start the ReactJS app.
+
